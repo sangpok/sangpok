@@ -10,15 +10,21 @@
 
 #### Projects
 
+- [마음을 준 글, 마중글](https://github.com/sangpok/meet-writing)
+- [공유 일기장 Dassda.](https://github.com/SSDA-Side/SSDA-Front)
 - [Wherewatch](https://github.com/sangpok/wherewatch)
 - [Notion Guest Book Widget](https://github.com/sangpok/ngw-v2)
 
 #### Skills
 
-<img style="display:inline-block; margin: 0;" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/><img style="display:inline-block; margin: 0;" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
+| Basic | Core | 
+| --- | --- |
+| `HTML` `CSS` `Javascript` | `React` `Typescript` |
 
-<img style="display:inline-block; margin: 0;" src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=Redux&logoColor=white"/><img style="display:inline-block; margin: 0;" src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=ReactQuery&logoColor=white"/><img style="display:inline-block; margin: 0;" src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/><br /><img style="display:inline-block; margin: 0;"  src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=Sass&logoColor=white"/><img style="display:inline-block; margin: 0;"  src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white"/><img style="display:inline-block; margin: 0;"  src="https://img.shields.io/badge/emotion-black?style=for-the-badge&logo=emotion&logoColor=white"/><img style="display:inline-block; margin: 0;"  src="https://img.shields.io/badge/style_component-black?style=for-the-badge&logo=styled-component&logoColor=white"/><img style="display:inline-block; margin: 0;" src="https://img.shields.io/badge/Motion_Framer-0055FF?style=for-the-badge&logo=Framer&logoColor=white"/>
+| 스타일 | 애니메이션 |
+| --- | --- |
+| `Module SCSS` `Emotion` `Styled Components` | `Framer Motion` |
 
-<img style="display:inline-block; margin: 0;" src="https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/><img style="display:inline-block; margin: 0;" src="https://img.shields.io/badge/mongdodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/><img style="display:inline-block; margin: 0;" src="https://img.shields.io/badge/express-010101?style=for-the-badge&logo=express&logoColor=white"/>
-
-<img style="display:inline-block; margin: 0;"  src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/><img style="display:inline-block; margin: 0;"  src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=AdobePhotoshop&logoColor=white"/><img style="display:inline-block; margin: 0;"  src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/><img style="display:inline-block; margin: 0;"  src="https://img.shields.io/badge/Premier_pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white"/><img style="display:inline-block; margin: 0;"  src="https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white"/>
+| 상태 관리 | 
+| --- |
+| `Recoil` `React Query` `Redux Toolkit` |
