@@ -23,7 +23,7 @@
 
 | 스타일 | 애니메이션 |
 | --- | --- |
-| ![Module SCSS](https://img.shields.io/badge/Module_SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![Emotion](https://img.shields.io/badge/emotion-black?style=for-the-badge&logo=emotion&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white) | ![Framer Motion](https://img.shields.io/badge/Motion_Framer-0055FF?style=for-the-badge&logo=Framer&logoColor=white) |
+| ![Module SCSS](https://img.shields.io/badge/Module_SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![Emotion](https://img.shields.io/badge/emotion-black?style=for-the-badge&logo=emotion&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white) | ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=Framer&logoColor=white) |
 
 | 상태 관리 | 
 | --- |
