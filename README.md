@@ -66,7 +66,7 @@
     <td><img src="https://github.com/sangpok/sangpok/assets/48979587/084ce7aa-5b72-4810-a779-a3d57520db36" width="12px" /> NodeJS</td>
     <td><img src="https://github.com/sangpok/sangpok/assets/48979587/e5c98d2b-adab-4f47-a718-a86aa97a4e9d" width="12px" /> ExpressJS</td>
     <td><img src="https://github.com/sangpok/sangpok/assets/48979587/77ed964a-2f75-46a0-ae5b-db622247d5de" width="12px" /> Firebase</td>
-    <td><img src="https://github.com/sangpok/sangpok/assets/48979587/0b0e9073-1db8-4807-afe3-9c952e1dec95" width="12px" /> Supbase</td>
+    <td><img src="https://github.com/sangpok/sangpok/assets/48979587/0b0e9073-1db8-4807-afe3-9c952e1dec95" width="12px" /> Supabase</td>
     <td><img src="https://github.com/sangpok/sangpok/assets/48979587/88cfceb7-2d1a-4eb4-95a7-1b13755fee65" width="12px" /> MongoDB</td>
     <td><img src="https://github.com/user-attachments/assets/adeab042-2b41-4976-9193-25fdc6f177de" width="12px" /> Prisma</td>
   </tr>
@@ -78,9 +78,9 @@
     <td><img src="https://github.com/sangpok/sangpok/assets/48979587/9578a608-4ed3-48da-83ea-7438d8af09c6" width="12px" /> Github Actions</td>
     <td><img src="https://github.com/sangpok/sangpok/assets/48979587/9b607ede-7146-44a1-9146-b9c4691536f5" width="12px" /> Jira</td>
     <td><img src="https://github.com/sangpok/sangpok/assets/48979587/1632ed30-9659-4ccf-a94f-6d9423a85caa" width="12px" /> Notion</td>
-    <td colspan="1" />
+    <td><img src="https://github.com/user-attachments/assets/60b218a3-c930-4e75-9003-431195ad5067" width="12px" /> Slack</td>
   </tr>
-  
+
   <tr>
     <th align="left">Deploy</th>
     <td><img src="https://github.com/sangpok/sangpok/assets/48979587/d7fa8e9b-2673-4e98-b2c1-fbb9b3cd44a5" width="12px" /> Vercel</td>
