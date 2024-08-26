@@ -1,33 +1,35 @@
-<h6 align="right">@Updated at 24.05.31</h6>
+<h6 align="right">@Updated at 24.08.26</h6>
 
 ### 안녕하세요, 김 주현입니다🙌
 
-> 사진과 영상을 했었고, 웹 프론트엔드 개발을 합니다.
+> 대학교에서 영상공학을 전공했고, 사진과 영상을 했다가, 현재 웹 프론트엔드 개발을 합니다.
 
 - 어떤 현상에 대해 질문을 던지며 고찰하는 것을 즐겨요.
 - 사용자의 문제를 친절하게 해결하는 것에 집중하고 있습니다.
 - 서로 배우며 발전할 수 있는 문화를 만들어가고 싶습니다.
 - 앞으로 프론트엔드 UX 엔지니어가 되는 것이 제 목표예요.
 
-## Projects
+#### 저는 이런 사람이에요!
+- 최근에는 웹 서비스를 만드는 스위프 5기를 통해 패션 트렌드 서비스 <strong>페이드</strong>를 성공적으로 출시했어요.
+- 쉴 때는 기타를 연주하거나 출사를 나가고, 사람과 이야기하는 것을 좋아합니다.
+- <strong>하고 싶은 일이 할 수 있는 일이 되려면 해야 하는 일이 있다</strong>라는 말을 좋아해요.
+- 앞으로 모바일과 UX를 더 공부하고 싶고, 웹 뿐만 아니라 다른 분야에서도 사용자 경험을 높이고 싶습니다.
 
-#### [<img src="https://github.com/sangpok/sangpok/assets/48979587/b36dc17a-d451-43f3-b9a8-af16bf47c6b9" width="12px" /> 공시락 Gongsilock](https://github.com/Dosilock/Frontend): 스터디 시간표 서비스
+## 최근 프로젝트들
+
+#### [<img src="https://github.com/user-attachments/assets/79475eed-2f2f-4f33-aa60-52ddef202bb8" width="12px" /> 페이드 FADE](https://github.com/swyp-fade/fade-frontend): 패션 트렌드 서비스 (2024.06 ~ 08)
+> 투표로 만들어가는 패션 트렌드 서비스
+
+#### [<img src="https://github.com/sangpok/sangpok/assets/48979587/b36dc17a-d451-43f3-b9a8-af16bf47c6b9" width="12px" /> 공시락 Gongsilock](https://github.com/Dosilock/Frontend): 스터디 시간표 서비스 (2024.04 ~ 보류)
 > 시간표를 만들어 멤버들과 함께 스터디하는 취준생 및 갓생러를 위한 서비스
 
-#### [<img src="https://github.com/sangpok/sangpok/assets/48979587/603dc49c-6f77-4f64-aec4-6d61cc69db2e" width="12px" /> 다쓰다 Dassda](https://github.com/SSDA-Side/SSDA-Front): 공유 일기장 서비스
+#### [<img src="https://github.com/sangpok/sangpok/assets/48979587/603dc49c-6f77-4f64-aec4-6d61cc69db2e" width="12px" /> 다쓰다 Dassda](https://github.com/SSDA-Side/SSDA-Front): 공유 일기장 서비스 (2024.01 ~ 02)
 > 친구들과 공유 일기장을 만들어 서로의 일상을 남기는 서비스
 
-#### [<img src="https://github.com/sangpok/sangpok/assets/48979587/53e019d4-0ea4-4896-9311-c4099609ff97" width="12px" /> 마음을 준 글, 마중글](https://github.com/sangpok/meet-writing): 문장 수집 서비스
+#### [<img src="https://github.com/sangpok/sangpok/assets/48979587/53e019d4-0ea4-4896-9311-c4099609ff97" width="12px" /> 마음을 준 글, 마중글](https://github.com/sangpok/meet-writing): 문장 수집 서비스 (2024.02)
 > 마음에 든 문장을 수집하거나 남들에게 공유할 수 있는 서비스
 
-#### [<img src="https://github.com/sangpok/sangpok/assets/48979587/000d8942-6395-4d97-b5d8-b8a5198685b4" width="12px" /> Wherewatch](https://github.com/sangpok/wherewatch): OTT 검색 서비스
-> TMDB를 활용하여 원하는 작품이 어느 OTT에 있는지 확인할 수 있는 서비스
-
-#### [Notion Guest Book Widget](https://github.com/sangpok/ngw-v2): 노션 방명록 위젯
-> 실시간 통신을 활용하여 서로에게 응원을 남기거나 방명록을 적을 수 있는 위젯
-
-## Skiils
-
+## 스킬
 아래의 스킬들은 현재 주로 사용하고 있거나 경험이 있는 기술 스택입니다.
 
 <table>
@@ -36,7 +38,8 @@
     <td><img src="https://github.com/sangpok/sangpok/assets/48979587/0b494592-f013-4fa1-9f56-231160d89fc5" width="12px" /> React</td>
     <td><img src="https://github.com/sangpok/sangpok/assets/48979587/5e319a1b-6ab3-4509-8ab3-841f0d2ecd4b" width="12px" /> Typescript</td>
     <td><img src="https://github.com/sangpok/sangpok/assets/48979587/69140cd4-de09-4403-8128-112411036d79" width="12px" /> Next.js</td>
-    <td colspan="3" />
+    <td><img src="https://github.com/user-attachments/assets/e6808fa5-910f-4592-9026-30f575a76a92" width="12px" /> PWA</td>
+    <td colspan="2" />
   </tr>
   
   <tr>
@@ -65,7 +68,7 @@
     <td><img src="https://github.com/sangpok/sangpok/assets/48979587/77ed964a-2f75-46a0-ae5b-db622247d5de" width="12px" /> Firebase</td>
     <td><img src="https://github.com/sangpok/sangpok/assets/48979587/0b0e9073-1db8-4807-afe3-9c952e1dec95" width="12px" /> Supbase</td>
     <td><img src="https://github.com/sangpok/sangpok/assets/48979587/88cfceb7-2d1a-4eb4-95a7-1b13755fee65" width="12px" /> MongoDB</td>
-    <td colspan="1" />
+    <td><img src="https://github.com/user-attachments/assets/adeab042-2b41-4976-9193-25fdc6f177de" width="12px" /> Prisma</td>
   </tr>
   
   <tr>
